@@ -9,7 +9,7 @@ export function getBaseUrl() {
 }
 
 export function getAPIUrl() {
-  return 'https://localhost:7199/';
+  return 'https://sisu-olorin-api.azurewebsites.net/api/';
 }
 
 const providers = [
